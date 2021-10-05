@@ -1,0 +1,17 @@
+ownedProperty = [{
+    id: INT+
+    address: STR
+    stock: INT+
+    totalWorth: INT+
+    currentPrice: INT+
+    investmentReturn: INT+-
+    imgURLs: [STR] 
+}]
+
+waletValue = {
+    date: [DATE]
+    value: [INT]
+    walet: INT
+}
+
+
